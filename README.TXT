@@ -22,7 +22,7 @@ USER INSTRUCTIONS:
     ... 			...
     x(cant_aristas-1) 	y(cant_aristas-1)
 
-    x representa una un vértice que se conecta a otro vértice representado por y. 
+    x representa un vértice que se conecta a otro representado por y. 
 
     Ejemplo, para un grafo con 7 vertices y 6 aristas
  
