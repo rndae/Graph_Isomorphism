@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=lecv\ leca
+comment0.target=Grafo(int,\ Dupla[])
+comment1.params=
+comment1.target=int\ getOrden()
+comment2.params=
+comment2.target=int\ getTam()
+comment3.params=
+comment3.target=void\ addVertices()
+comment4.params=a\ b
+comment4.target=void\ addArista(int,\ int)
+comment5.params=
+comment5.target=void\ addEnlaces()
+comment6.params=v
+comment6.target=int[]\ getVecinos(int)
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lectura()
+comment1.params=
+comment1.target=int\ getV()
+comment2.params=grafo
+comment2.target=Dupla[]\ leerGs(java.io.File)
+numComments=3

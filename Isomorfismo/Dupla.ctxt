@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=xx\ yy
+comment0.target=Dupla(int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=modx\ mody
+comment3.target=void\ setXY(int,\ int)
+numComments=4

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=nver\ ar\ left
+comment0.target=Grafico(int,\ Dupla[],\ boolean)
+comment1.params=i\ x
+comment1.target=void\ setVerX(int,\ int)
+comment10.params=i
+comment10.target=Dupla\ getEnlaceA(int)
+comment11.params=i
+comment11.target=Dupla\ getEnlaceB(int)
+comment2.params=i\ y
+comment2.target=void\ setVerY(int,\ int)
+comment3.params=
+comment3.target=int\ getNver()
+comment4.params=
+comment4.target=int\ getAristas()
+comment5.params=
+comment5.target=void\ posicionar()
+comment6.params=
+comment6.target=void\ posicionarI()
+comment7.params=y\ forma
+comment7.target=int\ raizEntera(double,\ boolean)
+comment7.text=Se\ aplica\ la\ formula\ del\ c\u00EDrculo\ para\ posicionar\ los\ vertices,\r\n\ \ \ \ \ \ \ \ con\ tal\ formula\ obtenemos\ las\ dos\ raices\ para\ un\ valor\ de\ x\r\n\ \ \ \ \ \ 62500\ en\ la\ formula\ para\ un\ radio\ de\ 250,\ con\ el\ centro\ en\ 300,300\ en\ \r\n\ \ \ \ \ \ \ \ izq\ y\ 330\ de\ espacio\ entre\ cada\ centro\r\n
+comment8.params=ultimo\ y
+comment8.target=boolean\ espejo(int,\ int)
+comment9.params=i
+comment9.target=Dupla\ getVertice(int)
+numComments=12
